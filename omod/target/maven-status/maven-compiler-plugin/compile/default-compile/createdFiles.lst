@@ -1,0 +1,3 @@
+org/openmrs/module/crosswiredcustomstyle/extension/html/AdminList.class
+org/openmrs/module/crosswiredcustomstyle/fragment/controller/UsersFragmentController.class
+org/openmrs/module/crosswiredcustomstyle/web/controller/CrosswiredCustomStyleController.class

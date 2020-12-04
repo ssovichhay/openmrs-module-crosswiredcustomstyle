@@ -1,0 +1,39 @@
+@font-face{
+    font-family: 'Lato';
+    font-style: normal;
+    src: url("../webfonts/Lato-Regular.ttf");
+}
+@font-face{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: url("../webfonts/Lato-Light.ttf");
+}
+@font-face{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: bold;
+    src: url("../webfonts/Lato-Bold.ttf");
+}
+body{
+    max-width: 1250px !important;
+    font-family: 'Lato' !important;
+}
+header{
+    background-color: #363463 !important;
+}
+header .logo img{
+    width:auto !important;
+    height:2.5em !important;
+}
+.dashboard .info-header{
+    border-bottom: 6px solid #363463 !important;
+}
+header .user-options li.change-location:hover, header .user-options li.change-location .focus {
+    background: #14124a !important;
+}
+@media only screen and (min-width: 1200px){
+    .navbar{
+        height: 4em !important
+    }
+}
