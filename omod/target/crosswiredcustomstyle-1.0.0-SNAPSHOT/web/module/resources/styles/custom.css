@@ -16,8 +16,8 @@
     src: url("../webfonts/Lato-Bold.ttf");
 }
 body{
-    max-width: 1250px;
-    font-family: 'Lato';
+    max-width: 1250px ;
+    font-family: 'Lato' ;
 }
 header{
     background-color: #363463;
@@ -32,7 +32,7 @@ header .logo img{
 header .user-options li.change-location:hover, header .user-options li.change-location .focus {
     background: #14124a;
 }
-#obsTable.ng-scope th.ng-binding {
+#obsTable.ng-scope tbody th.ng-binding{
     font-size: 14px;
 }
 @media only screen and (min-width: 1200px){

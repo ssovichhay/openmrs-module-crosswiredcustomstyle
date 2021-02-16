@@ -1,6 +1,0 @@
-org/openmrs/module/crosswiredcustomstyle/CrosswiredCustomStyleActivator.class
-org/openmrs/module/crosswiredcustomstyle/api/dao/CrosswiredCustomStyleDao.class
-org/openmrs/module/crosswiredcustomstyle/CrosswiredCustomStyleConfig.class
-org/openmrs/module/crosswiredcustomstyle/api/CrosswiredCustomStyleService.class
-org/openmrs/module/crosswiredcustomstyle/api/impl/CrosswiredCustomStyleServiceImpl.class
-org/openmrs/module/crosswiredcustomstyle/Item.class

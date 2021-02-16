@@ -16,24 +16,27 @@
     src: url("../webfonts/Lato-Bold.ttf");
 }
 body{
-    max-width: 1250px !important;
-    font-family: 'Lato' !important;
+    max-width: 1250px ;
+    font-family: 'Lato' ;
 }
 header{
-    background-color: #363463 !important;
+    background-color: #363463;
 }
 header .logo img{
-    width:auto !important;
-    height:2.5em !important;
+    width:auto;
+    height:2.5em;
 }
 .dashboard .info-header{
-    border-bottom: 6px solid #363463 !important;
+    border-bottom: 6px solid #363463;
 }
 header .user-options li.change-location:hover, header .user-options li.change-location .focus {
-    background: #14124a !important;
+    background: #14124a;
+}
+#obsTable.ng-scope tbody th.ng-binding{
+    font-size: 14px;
 }
 @media only screen and (min-width: 1200px){
     .navbar{
-        height: 4em !important
+        height: 4em;
     }
 }
